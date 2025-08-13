@@ -1,0 +1,31 @@
+# Node modules (dependencias instaladas)
+node_modules/
+
+# Archivos de logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno (variables secretas)
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Salidas de compilación o carpetas temporales
+dist/
+build/
+tmp/
+.cache/
+
+# Cubrimiento de pruebas
+coverage/
+
+# Archivos creados por editores
+*.swp
+*.swo
+.vscode/
+.idea/
